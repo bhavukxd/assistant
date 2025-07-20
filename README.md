@@ -7,7 +7,7 @@ A simple Python tool to help plan team events like dinners using natural languag
 
 ## Features
 
-- Understands goals (GPT)
+- Understands goals 
 - Finds restaurants (Google Places API)
 - Checks calendars (Google Calendar API)
 - Suggests time & place
